@@ -276,7 +276,7 @@ footer {
     /* padding: 8vh; */
   }
   nav {
-    padding-top: 50px;
+    padding-top: 20px;
   }
   .lists ul {
     grid-template-columns: 1fr 1fr;
